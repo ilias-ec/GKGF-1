@@ -56,7 +56,7 @@ ISS (in meters) in separate file from the one with the sensor measurements. <br>
 <li> http://wsn.spaceflight.esa.int/docs/Factsheets/30%20ECLSS%20LR.pdf <br>
 <li> http://pep8online.com <br>
 <li> http://pypi.python.org/pypi/pep8 <br>
-<li> www.faa.gov/other_visit/aviation_industry/designees_delegations/designee_types/ame/media/III.1.2_Cabin_Environment_and_EVA_Environment.doc <br>
+<li> www.faa.gov/about/office_org/headquarters_offices/avs/offices/aam/cami/library/online_libraries/aerospace_medicine/tutorial/media/iii.1.2_cabin_environment_and_eva_environment.doc<br>
 <li> www.weather.gov/media/epz/wxcalc/tempConvert.pdf <br>
 <li> UNIVERSITY PHYSICS WITH MODERN PHYSICS - 13<sup>TH</sup> EDITION - HUGH D. YOUNG - ROGER A. FREEDMAN <br>
 <li> Physics (Student Book) from Greek Public High School-ISBN 978-960-06-4827-0 (in Greek language)
