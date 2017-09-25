@@ -51,24 +51,27 @@ ISS (in meters) in separate file from the one with the sensor measurements. <br>
 </ul>
 </ul>
 <b>Reference about our missions:</b> <br>
-www.celestrak.com/NORAD/elements/stations.txt <br>
-http://wsn.spaceflight.esa.int/docs/Factsheets/30%20ECLSS%20LR.pdf <br>
-http://pep8online.com <br>
-http://pypi.python.org/pypi/pep8 <br>
-www.faa.gov/other_visit/aviation_industry/designees_delegations/designee_types/ame/media/Section%20III.1.2%20Cabin%20Environment%20and%20EVA%20Environment.doc <br>
-www.weather.gov/media/epz/wxcalc/pressureConversion.pdf <br>
-www.weather.gov/media/epz/wxcalc/tempConvert.pdf <br>
-UNIVERSITY PHYSICS WITH MODERN PHYSICS - 13<sup>TH</sup> EDITION - HUGH D. YOUNG - ROGER A. FREEDMAN
-Physics (Student Book) from Greek Public High School-ISBN 978-960-06-4827-0 (in Greek language)
-
+<ul>
+<li> www.celestrak.com/NORAD/elements/stations.txt <br>
+<li> http://wsn.spaceflight.esa.int/docs/Factsheets/30%20ECLSS%20LR.pdf <br>
+<li> http://pep8online.com <br>
+<li> http://pypi.python.org/pypi/pep8 <br>
+<li> www.faa.gov/other_visit/aviation_industry/designees_delegations/designee_types/ame/media/Section%20III.1.2%20Cabin%20Environment%20and%20EVA%20Environment.doc <br>
+<li> www.weather.gov/media/epz/wxcalc/pressureConversion.pdf <br>
+<li> www.weather.gov/media/epz/wxcalc/tempConvert.pdf <br>
+<li> UNIVERSITY PHYSICS WITH MODERN PHYSICS - 13<sup>TH</sup> EDITION - HUGH D. YOUNG - ROGER A. FREEDMAN <br>
+<li> Physics (Student Book) from Greek Public High School-ISBN 978-960-06-4827-0 (in Greek language)
+</ul>
 <b>Files description: </b> <br>
-GKGF_1.py - the Python programm running on ISS <br>
-GKGF-1_GKGF_1_Greece_20170501_115603.csv - Data from ISS (from 01/05/2017,11:56:03 until 01/05/2017,14:55:51) - All mesurments from all sensors of SenseHat <br>
-GKGF-1_GKGF_1_Greece_calc_20170501_115603.csv - Data from ISS (from 01/05/2017,11:56:03 until 01/05/2017,14:55:51) - Position of ISS (latitude , longitude , altitude) <br>
-
+<ul>
+<li> GKGF_1.py - the Python programm running on ISS <br>
+<li> GKGF-1_GKGF_1_Greece_20170501_115603.csv - Data from ISS (from 01/05/2017,11:56:03 until 01/05/2017,14:55:51) - All mesurments from all sensors of SenseHat <br>
+<li> GKGF-1_GKGF_1_Greece_calc_20170501_115603.csv - Data from ISS (from 01/05/2017,11:56:03 until 01/05/2017,14:55:51) - Position of ISS (latitude , longitude , altitude) <br>
+</ul>
 <b>Many thanks to: </b> <br>
-a) my students (Paraskevas, Nikos, Pavlos, Constantinos and Anastasia) <br>
-b) Mr Tsamouris Tasos - Physics Teacher at 4<sup>th</sup> Lyceum of Chalkida for his scientific support <br>
-c) Mrs Pappa Korina - English Teacher at Gymnasium of Kanithos her translating assistance from Greek to English. <br>
-  
+<ul>
+<li> my students (Paraskevas, Nikos, Pavlos, Constantinos and Anastasia) <br>
+<li> Mr Tsamouris Tasos - Physics Teacher at 4<sup>th</sup> Lyceum of Chalkida for his scientific support <br>
+<li> Mrs Pappa Korina - English Teacher at Gymnasium of Kanithos her translating assistance from Greek to English. <br>
+</ul>
   
