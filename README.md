@@ -45,7 +45,7 @@ m=5.972*10^24 Kg - mass of Earth, R=(Radius of Earth + altitude of ISS). <br>
 would appreciate it if you notified the 2 lines from NORAD TLE at the beginning of our programme
 BEFORE putting it into practice (lines 23 & 24 in our python code with name GKGF_1.py). <br>
 <li> - Calculation centripetal and centripetal acceleration (mass of ISS=419455 Kg). <br>
-- Calculating rotation period of ISS around the Earth. <br>
+<li> - Calculating rotation period of ISS around the Earth. <br>
 <li> - Storing of timestamp, latitude (in decimal format), longitude (in decimal format) and altitude of
 ISS (in meters) in separate file from the one with the sensor measurements. <br>
 </ul>
