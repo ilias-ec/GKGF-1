@@ -35,7 +35,7 @@ sensor and temperature from the pressure sensor. <br>
 received after commencing the programme (approximately 60 sec) we assume that somebody will
 be in proximity to Astro-Pi and a greeting message (Hi!) will be displayed in the 8x8 led display. <br>
 </ul>
-<i>Secondary: </i> <br>
+<li> <i>Secondary: </i> <br>
 <ul>
 <li> - From Newton's Second Law and gravitational force it is evident that ISS speed is given by the
 formula u=sqrt(G*m/R), where: G=6,67428×10^−11 (Nm^2/kg^2) - Gravitational constant,
