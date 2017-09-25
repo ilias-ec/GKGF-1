@@ -2,7 +2,7 @@
 <b>Team name:</b> GKGF-1 - Gymnasium of Kanithos (Chalkida) Greece <br>
 <b>Reference about challenge:</b> <br>
 <ul>
-<li> <a href="https://astro-pi.org/past-missions" target="_blank">https://astro-pi.org/past-missions </a> <br>
+<li> https://astro-pi.org/past-missions <br>
 <li> http://www.esa.int/Education/AstroPI/European_Astro_Pi_Challenge_Code_your_ISS_experiment_-_more_details2 <br>
 <li> http://www.esa.int/Education/AstroPI/1st_European_Astro_Pi_Challenge_Timeline <br>
 <li> http://www.esa.int/Education/AstroPI/Meet_the_sense_hat_-_teach_with_space_T05.2http://www.esa.int/Education/AstroPI/Meet_the_sense_hat_-_teach_with_space_T05.2 <br>
