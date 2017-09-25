@@ -32,6 +32,18 @@ sensor and temperature from the pressure sensor. <br>
 - If there is a slight variation of temperature/humidity in the original measurements which will be
 received after commencing the programme (approximately 60 sec) we assume that somebody will
 be in proximity to Astro-Pi and a greeting message (Hi!) will be displayed in the 8x8 led display. <br>
+<i>Secondary: </i> <br>
+- From Newton's Second Law and gravitational force it is evident that ISS speed is given by the
+formula u=sqrt(G*m/R), where: G=6,67428×10^−11 (Nm^2/kg^2) - Gravitational constant,
+m=5.972*10^24 Kg - mass of Earth, R=(Radius of Earth + altitude of ISS). <br>
+- In calculating the Earth radius we take into consideration ISS latitude. <br>
+- We use http://celestrak.com/NORAD/elements/stations.txt (NORAD Two-Line Element Sets) - we
+would appreciate it if you notified the 2 lines from NORAD TLE at the beginning of our programme
+BEFORE putting it into practice (lines 23 & 24 in our python code with name GKGF_1.py). <br>
+- Calculation centripetal and centripetal acceleration (mass of ISS=419455 Kg). <br>
+- Calculating rotation period of ISS around the Earth. <br>
+- Storing of timestamp, latitude (in decimal format), longitude (in decimal format) and altitude of
+ISS (in meters) in separate file from the one with the sensor measurements. <br>
 
 <b>Reference about our missions:</b> <br>
 www.celestrak.com/NORAD/elements/stations.txt <br>
@@ -41,7 +53,7 @@ http://pypi.python.org/pypi/pep8 <br>
 www.faa.gov/other_visit/aviation_industry/designees_delegations/designee_types/ame/media/Section%20III.1.2%20Cabin%20Environment%20and%20EVA%20Environment.doc <br>
 www.weather.gov/media/epz/wxcalc/pressureConversion.pdf <br>
 www.weather.gov/media/epz/wxcalc/tempConvert.pdf <br>
-UNIVERSITY PHYSICS WITH MODERN PHYSICS - 13TH EDITION - HUGH D. YOUNG - ROGER A. FREEDMAN
+UNIVERSITY PHYSICS WITH MODERN PHYSICS - 13<sup>TH</sup> EDITION - HUGH D. YOUNG - ROGER A. FREEDMAN
 Physics (Student Book) from Greek Public High School-ISBN 978-960-06-4827-0 (in Greek language)
 
 <b>Files description: </b> <br>
@@ -51,7 +63,7 @@ GKGF-1_GKGF_1_Greece_calc_20170501_115603.csv - Data from ISS (from 01/05/2017,1
 
 <b>Many thanks to: </b> <br>
 a) my students (Paraskevas, Nikos, Pavlos, Constantinos and Anastasia) <br>
-b) Mr Tsamouris Tasos - Physics Teacher at 4th Lyceum of Chalkida for his scientific support <br>
+b) Mr Tsamouris Tasos - Physics Teacher at 4<sup>th</sup> Lyceum of Chalkida for his scientific support <br>
 c) Mrs Pappa Korina - English Teacher at Gymnasium of Kanithos her translating assistance from Greek to English. <br>
   
   
