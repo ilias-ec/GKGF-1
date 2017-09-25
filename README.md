@@ -69,7 +69,7 @@ ISS (in meters) in separate file from the one with the sensor measurements. <br>
 </ul>
 <b>Many thanks to: </b> <br>
 <ul>
-<li> my students (Paraskevas, Nikos, Pavlos, Constantinos and Anastasia) <br>
+<li> My students (Paraskevas, Nikos, Pavlos, Constantinos and Anastasia) <br>
 <li> Mr Tsamouris Tasos - Physics Teacher at 4<sup>th</sup> Lyceum of Chalkida for his scientific support <br>
 <li> Mrs Pappa Korina - English Teacher at Gymnasium of Kanithos her translating assistance from Greek to English. <br>
 </ul>
