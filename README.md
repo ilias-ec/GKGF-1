@@ -15,36 +15,41 @@
 <li> http://www.esa.int/Education/AstroPI/2016_17_European_Astro_Pi_Challenge_Winners <br>
 </ul>
 <b>Our missions: </b> <br>
-<i>Primary: </i> <br>
-- Receiving measurements from all SenseHAT sensors per 10secs (temperature from humidity,
+<ul>
+<li> <i>Primary: </i> <br>
+<ul>
+<li> - Receiving measurements from all SenseHAT sensors per 10secs (temperature from humidity,
 temperature from pressure, relative humidity, pressure, orientation (in radians and degrees),
 accelerometer (raw and degrees), compass (direction of North and raw), gyroscope (raw and
 degrees) and CPU temperature at Raspberry PI3 model B). <br>
-- Timestamp for each measurement (in format: dd/mm/yyyy and hh:mm:ss). <br>
-- Monitoring living conditions of the ISS crew per 10 sec. Living conditions on ISS are: temperature
+<li> - Timestamp for each measurement (in format: dd/mm/yyyy and hh:mm:ss). <br>
+<li> - Monitoring living conditions of the ISS crew per 10 sec. Living conditions on ISS are: temperature
 (min 18.3 o C – max 26.6 o C), relative humidity (min 50% - max 70%), pressure (min 979.0559 mbar –
 max 1027.2769 mbar). Displaying of notifying messages on the 8x8 led display of SenseHAT if the
 measurements of the sensors (temperature, humidity, pressure) are above or below the allowed
 limit. <br>
-- For monitoring temperature we use the average measurement of temperature from the humidity
+<li> - For monitoring temperature we use the average measurement of temperature from the humidity
 sensor and temperature from the pressure sensor. <br>
-- All our programme is conducted in 3 hours (10800 sec). <br>
-- If there is a slight variation of temperature/humidity in the original measurements which will be
+<li> - All our programme is conducted in 3 hours (10800 sec). <br>
+<li> - If there is a slight variation of temperature/humidity in the original measurements which will be
 received after commencing the programme (approximately 60 sec) we assume that somebody will
 be in proximity to Astro-Pi and a greeting message (Hi!) will be displayed in the 8x8 led display. <br>
+</ul>
 <i>Secondary: </i> <br>
-- From Newton's Second Law and gravitational force it is evident that ISS speed is given by the
+<ul>
+<li> - From Newton's Second Law and gravitational force it is evident that ISS speed is given by the
 formula u=sqrt(G*m/R), where: G=6,67428×10^−11 (Nm^2/kg^2) - Gravitational constant,
 m=5.972*10^24 Kg - mass of Earth, R=(Radius of Earth + altitude of ISS). <br>
-- In calculating the Earth radius we take into consideration ISS latitude. <br>
-- We use http://celestrak.com/NORAD/elements/stations.txt (NORAD Two-Line Element Sets) - we
+<li> - In calculating the Earth radius we take into consideration ISS latitude. <br>
+<li> - We use http://celestrak.com/NORAD/elements/stations.txt (NORAD Two-Line Element Sets) - we
 would appreciate it if you notified the 2 lines from NORAD TLE at the beginning of our programme
 BEFORE putting it into practice (lines 23 & 24 in our python code with name GKGF_1.py). <br>
-- Calculation centripetal and centripetal acceleration (mass of ISS=419455 Kg). <br>
+<li> - Calculation centripetal and centripetal acceleration (mass of ISS=419455 Kg). <br>
 - Calculating rotation period of ISS around the Earth. <br>
-- Storing of timestamp, latitude (in decimal format), longitude (in decimal format) and altitude of
+<li> - Storing of timestamp, latitude (in decimal format), longitude (in decimal format) and altitude of
 ISS (in meters) in separate file from the one with the sensor measurements. <br>
-
+</ul>
+</ul>
 <b>Reference about our missions:</b> <br>
 www.celestrak.com/NORAD/elements/stations.txt <br>
 http://wsn.spaceflight.esa.int/docs/Factsheets/30%20ECLSS%20LR.pdf <br>
