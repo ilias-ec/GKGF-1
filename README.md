@@ -1,6 +1,6 @@
 <b>European Astro-Pi challenge 2016-2017</b> <br>
 <b>Team name:</b> GKGF-1 - Gymnasium of Kanithos (Chalkida) Greece <br>
-<b>Reference about challenge:</b>
+<b>Reference about challenge:</b> <br>
 <ul>
 <li> https://astro-pi.org/past-missions/ <br>
 <li> http://www.esa.int/Education/AstroPI/European_Astro_Pi_Challenge_Code_your_ISS_experiment_-_more_details2 <br>
