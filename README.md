@@ -35,9 +35,9 @@ be in proximity to Astro-Pi and a greeting message (Hi!) will be displayed in th
 
 <b>Reference about our missions:</b> <br>
 www.celestrak.com/NORAD/elements/stations.txt <br>
-wsn.spaceflight.esa.int/docs/Factsheets/30%20ECLSS%20LR.pdf <br>
+http://wsn.spaceflight.esa.int/docs/Factsheets/30%20ECLSS%20LR.pdf <br>
 http://pep8online.com <br>
-pypi.python.org/pypi/pep8 <br>
+http://pypi.python.org/pypi/pep8 <br>
 www.faa.gov/other_visit/aviation_industry/designees_delegations/designee_types/ame/media/Section%20III.1.2%20Cabin%20Environment%20and%20EVA%20Environment.doc <br>
 www.weather.gov/media/epz/wxcalc/pressureConversion.pdf <br>
 www.weather.gov/media/epz/wxcalc/tempConvert.pdf <br>
