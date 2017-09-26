@@ -66,9 +66,13 @@ ISS (in meters) in separate file from the one with the sensor measurements. <br>
 <li> GKGF-1_GKGF_1_Greece_20170501_115603.csv - Data from ISS (from 01/05/2017,11:56:03 until 01/05/2017,14:55:51) - All mesurments from all sensors of SenseHat <br>
 <li> GKGF-1_GKGF_1_Greece_calc_20170501_115603.csv - Data from ISS (from 01/05/2017,11:56:03 until 01/05/2017,14:55:51) - Position of ISS (latitude , longitude , altitude) <br>
 <li> time_Temperatures_3_plots_pep8.py - Python program that create graphs of Temperature (from humidity/pressure/CPU censor) - Time using matplotlib
-<li> time_Pressure_sensor.py - Python programm that create graph of Pressure (in mbar from pressure sensor) - Time using matplotlib
-<li> time_Humidity_sensor.py - Python programm that create graph of Humidity (in %rH from humidity sensor) - Time using matplotlib
-<li> time_Speed_plus_R.py - Python programm that create graphs of ISS speed (Km/h) - Radius earth (according lat/log) + altitude ISS (Km) - Time using matplotlib
+<li> time_Pressure_sensor.py - Python program that create graph of Pressure (in mbar from pressure sensor) - Time using matplotlib
+<li> time_Humidity_sensor.py - Python program that create graph of Humidity (in %rH from humidity sensor) - Time using matplotlib
+<li> time_Speed_plus_R.py - Python program that create graphs of ISS speed (Km/h) - Radius earth (according lat/log) + altitude ISS (Km) - Time using matplotlib
+</ul>
+<b>Some results after of data from ISS proccessing: </b> <br>
+<ul>
+<li> From the 3 graphs (Temperature/Pressure/Humidity - Time) we can see nobody from 01/05/2017,11:56:03 until 01/05/2017,14:55:51 come in to Colombus Laboratory Module. <br>
 </ul>
 <b>Many thanks to: </b> <br>
 <ul>
