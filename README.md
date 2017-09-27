@@ -24,7 +24,8 @@ degrees) and CPU temperature at Raspberry PI3 model B). <br>
 <li> Timestamp for each measurement (in format: dd/mm/yyyy and hh:mm:ss). <br>
 <li> Monitoring living conditions of the ISS crew per 10 sec. Living conditions on ISS are: temperature
 (min 18.3 o C – max 26.6 o C), relative humidity (min 50% - max 70%), pressure (min 979.0559 mbar –
-max 1027.2769 mbar). Displaying of notifying messages on the 8x8 led display of SenseHAT if the
+max 1027.2769 mbar). 
+<li> Displaying of notifying messages on the 8x8 led display of SenseHAT if the
 measurements of the sensors (temperature, humidity, pressure) are above or below the allowed
 limit. <br>
 <li> For monitoring temperature we use the average measurement of temperature from the humidity
@@ -46,7 +47,7 @@ BEFORE putting it into practice (lines 23 & 24 in our python code with name GKGF
 <li> Calculation centripetal and centripetal acceleration (mass of ISS=419455 Kg). <br>
 <li> Calculating rotation period of ISS around the Earth. <br>
 <li> Storing of timestamp, latitude (in decimal format), longitude (in decimal format) and altitude of
-ISS (in meters) in separate file from the one with the sensor measurements. <br>
+ISS (in meters) in a separate file from the one with the sensor measurements. <br>
 </ul>
 </ul>
 <b>Reference about our missions:</b> <br>
@@ -62,15 +63,15 @@ ISS (in meters) in separate file from the one with the sensor measurements. <br>
 </ul>
 <b>Files description: </b> <br>
 <ul>
-<li> GKGF_1.py - the Python programm running on ISS <br>
+<li> GKGF_1.py - the Python programme running on ISS <br>
 <li> GKGF-1_GKGF_1_Greece_20170501_115603.csv - Data from ISS (from 01/05/2017, 11:56:03 until 01/05/2017, 14:55:51) - All mesurments from all sensors of SenseHat <br>
 <li> GKGF-1_GKGF_1_Greece_calc_20170501_115603.csv - Data from ISS (from 01/05/2017, 11:56:03 until 01/05/2017, 14:55:51) - Position of ISS (latitude , longitude , altitude) <br>
-<li> time_Temperatures_3_plots_pep8.py - Python program that create graphs of Temperature (from humidity/pressure/CPU censor) - Time using matplotlib
-<li> time_Pressure_sensor.py - Python program that create graph of Pressure (in mbar from pressure sensor) - Time using matplotlib
-<li> time_Humidity_sensor.py - Python program that create graph of Humidity (in %rH from humidity sensor) - Time using matplotlib
-<li> time_Speed_plus_R.py - Python program that create graphs of ISS speed (Km/h) - Radius earth (according lat/log) + altitude ISS (Km) - Time using matplotlib
+<li> time_Temperatures_3_plots_pep8.py - Python programme that creates graphs of Temperature (from humidity/pressure/CPU censor) - Time using matplotlib
+<li> time_Pressure_sensor.py - Python programme that creates graph of Pressure (in mbar from pressure sensor) - Time using matplotlib
+<li> time_Humidity_sensor.py - Python programme that creates graph of Humidity (in %rH from humidity sensor) - Time using matplotlib
+<li> time_Speed_plus_R.py - Python programme that creates graphs of ISS speed (Km/h) - Radius earth (according lat/log) + altitude ISS (Km) - Time using matplotlib
 </ul>
-<b>Some results after of data from ISS proccessing: </b> <br>
+<b>Some results after proccessing data from ISS: </b> <br>
 <ul>
 <li> From the 3 graphs (Temperature/Pressure/Humidity - Time) we can see nobody from 01/05/2017, 11:56:03 until 01/05/2017, 14:55:51 come in to Colombus Laboratory Module. <br>
 </ul>
@@ -78,6 +79,6 @@ ISS (in meters) in separate file from the one with the sensor measurements. <br>
 <ul>
 <li> My students (Paraskevas, Nikos, Pavlos, Constantinos and Anastasia) <br>
 <li> Mr Tsamouris Tasos - Physics Teacher at 4<sup>th</sup> Lyceum of Chalkida for his scientific support <br>
-<li> Mrs Pappa Korina - English Teacher at Gymnasium of Kanithos her translating assistance from Greek to English. <br>
+<li> Mrs Pappa Korina - English Teacher at Gymnasium of Kanithos for her translating assistance from Greek to English. <br>
 </ul>
   
