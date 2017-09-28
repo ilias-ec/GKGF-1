@@ -23,7 +23,7 @@ accelerometer (raw and degrees), compass (direction of North and raw), gyroscope
 degrees) and CPU temperature at Raspberry PI3 model B). <br>
 <li> Timestamp for each measurement (in format: dd/mm/yyyy and hh:mm:ss). <br>
 <li> Monitoring living conditions of the ISS crew per 10 sec. Living conditions on ISS are: temperature
-(min 18.3 o C – max 26.6 o C), relative humidity (min 50% - max 70%), pressure (min 979.0559 mbar –
+(min 18.3<sup>o</sum>C – max 26.6<sup>o</sup>C), relative humidity (min 50% - max 70%), pressure (min 979.0559 mbar –
 max 1027.2769 mbar). 
 <li> Displaying of notifying messages on the 8x8 led display of SenseHAT if the
 measurements of the sensors (temperature, humidity, pressure) are above or below the allowed
@@ -38,8 +38,8 @@ be in proximity to Astro-Pi and a greeting message (Hi!) will be displayed in th
 <li> <i>Secondary: </i> <br>
 <ul>
 <li> From Newton's Second Law and gravitational force it is evident that ISS speed is given by the
-formula u=sqrt(G*m/R), where: G=6,67428×10^−11 (Nm^2/kg^2) - Gravitational constant,
-m=5.972*10^24 Kg - mass of Earth, R=(Radius of Earth + altitude of ISS). <br>
+formula u=sqrt(G*m/R), where: G=6,67428×10<sup>−11</sup> (Nm^2/kg<sup>2</sup>) - Gravitational constant,
+m=5.972*10<sup>24</sup> Kg - mass of Earth, R=(Radius of Earth + altitude of ISS). <br>
 <li> In calculating the Earth radius we take into consideration ISS latitude. <br>
 <li> We use http://celestrak.com/NORAD/elements/stations.txt (NORAD Two-Line Element Sets) - we
 would appreciate it if you notified the 2 lines from NORAD TLE at the beginning of our programme
