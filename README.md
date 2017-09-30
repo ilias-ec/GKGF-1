@@ -5,7 +5,8 @@
 <li> https://astro-pi.org/past-missions <br>
 <li> http://www.esa.int/Education/AstroPI/European_Astro_Pi_Challenge_Code_your_ISS_experiment_-_more_details2 <br>
 <li> http://www.esa.int/Education/AstroPI/1st_European_Astro_Pi_Challenge_Timeline <br>
-<li> http://www.esa.int/Education/AstroPI/Meet_the_sense_hat_-_teach_with_space_T05.2http://www.esa.int/Education/AstroPI/Meet_the_sense_hat_-_teach_with_space_T05.2 <br>
+<li> http://www.esa.int/Education/AstroPI/Meet_the_sense_hat_-_teach_with_space_T05.2 <br>
+<li> http://www.esa.int/Education/AstroPI/Meet_the_sense_hat_-_teach_with_space_T05.2 <br>
 <li> http://www.esa.int/Education/AstroPI/Getting_started_with_Astro_Pi_-_teach_with_space_T05.1 <br>
 <li> http://www.esa.int/Education/AstroPI/How_to_collect_data_from_the_Astro_Pi_-_teach_with_space_T05.3 <br>
 <li> http://www.esa.int/Education/AstroPI/Phase_2_of_the_European_Astro_Pi_challenge_begins <br>
